@@ -3,7 +3,7 @@
 ## Shadow Law Quotient (SLQ) = LSI + GEI
 ## Algorithmic-Inversion
 > **LSI (Legal Singularity Index) + GEI (Global Entropy Index) = SLQ (Shadow Law Quotient)**
-> **SLQ index, LSI index, GEI index: proprietary-indicies of ai70000, Ltd.
+> **SLQ index, LSI index, GEI index: proprietary-indicies of ai70000, Ltd.**
 > First empirical proof of the computational displacement of the Rule of Law.
 
 ---
