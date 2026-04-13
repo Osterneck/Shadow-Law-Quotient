@@ -1,8 +1,7 @@
 04/12/26
 
-# The Algorithmic Inversion
 ## Shadow Law Quotient (SLQ) = LSI + GEI
-
+## Algorithmic-Inversion
 > **LSI (Legal Singularity Index) + GEI (Global Entropy Index) = SLQ (Shadow Law Quotient)**  
 > First empirical proof of the computational displacement of the Rule of Law.
 
@@ -10,7 +9,7 @@
 
 ## What This Is
 
-This repository contains the full pipeline for computing the **Shadow Law Quotient (SLQ)** — a novel dual-index framework that measures the degree to which private corporate AI networks have displaced public judicial authority as the primary source of legal precedent in the United States.
+This repository contains the full pipeline for computing the **Shadow Law Quotient (SLQ)** — a novel dual-index framework that measures the degree to which private corporate AI networks have displaced public judicial authority as the primary source of legal precedent in the United States. SLQ, LSI, GEI are each and collectively proprietary to ai70000, Ltd.
 
 **Result: SLQ = 0.21 — Early Inversion. 21% of legal sovereignty captured.**
 
