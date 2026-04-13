@@ -118,11 +118,11 @@ Twenty-one percent of legal sovereignty in America's most technologically advanc
 
 | File | Description |
 |---|---|
-| `AlgorithmicInversion_v2.ipynb` | GSGP-compliant pipeline (Google Python Style Guide) |
+| `Shadow-Law-Quotient.ipynb` | GSGP-compliant pipeline (Google Python Style Guide) |
 | `lsi_gei_40terms.csv` | Full LSI + GEI dataset (39 matched terms) |
 | `slq_crossover_chart.html` | Interactive SLQ crossover chart |
 | `slq_crossover_chart.png` | Static chart (200 DPI) |
-| `algorithmic_inversion_TNR.docx` | Full research paper |
+
 
 ---
 
@@ -139,8 +139,8 @@ No API keys required for SEC EDGAR. CourtListener free account at [courtlistener
 ## Citation
 
 ```
-ai70000 (2026). The Algorithmic Inversion: Measuring the Decoupling of
-Private Settlement and Public Law. Shadow Law Quotient (SLQ) Framework.
+ai70000 (2026). Shadow-Law-Quotient (SLQ) The Algorithmic Inversion: Measuring the Decoupling of
+Private Settlement and Public Law. LSI + GEI = SLQ Framework.
 GitHub. April 2026.
 ```
 
