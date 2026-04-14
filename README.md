@@ -25,7 +25,10 @@ This repository contains the full pipeline for computing the **Shadow Law Quotie
 | **SLQ** | `(LSI_norm × GEI_mean) / K` | Total systemic displacement (0–1+) |
 
 **K = 4,862 × log₂(40) = 25,865** — the theoretical maximum displacement ceiling.  
-**SLQ interpretation:** 0.0–0.3 Constitutional Stability | 0.4–0.7 Active Inversion | 0.8–1.0+ Post-Judicial Sovereignty
+**SLQ interpretation:** 
+0.0–0.3 Constitutional Stability (as of 04/12/2026 we are here.)
+0.4–0.7 Active Inversion 
+0.8–1.0+ Post-Judicial Sovereignty
 
 ---
 
@@ -53,10 +56,10 @@ Singularity Date:          2021 (Coinbase anchor)
 | Company | CIK | Epoch | XBRL from |
 |---|---|---|---|
 | NVIDIA | `CIK0001045810` | Semiconductor / AI infrastructure | 2007 |
-| Tesla | `CIK0001318605` | Autonomous systems | 2008 |
+| Tesla | `CIK0001318605` | Autonomous systems | 2010 |
 | Coinbase | `CIK0001679788` | Crypto-singularity (2021 anchor) | 2019 |
 
-Three companies, not 2,000 — surgical precision, not statistical noise. The 87% positive LSI rate across three distinct sectors proves the Singularity is systemic.
+Three companies, not thousands — surgical precision, not statistical noise. The 87% positive LSI rate across three distinct sectors proves the Singularity is systemic.
 
 ### The 40-Term Sensor Array
 Terms were selected across four clusters mapped to XBRL proxy tags:
@@ -122,7 +125,7 @@ Twenty-one percent of legal sovereignty in America's most technologically advanc
 | `Shadow-Law-Quotient.ipynb` | GSGP-compliant pipeline (Google Python Style Guide) |
 | `lsi_gei_40terms.csv` | Full LSI + GEI dataset (39 matched terms) |
 | `slq_crossover_chart.html` | Interactive SLQ crossover chart |
-| `slq_crossover_chart.png` | Static chart (200 DPI) |
+
 
 
 ---
@@ -146,6 +149,8 @@ GitHub. April 2026.
 ```
 
 **Shannon, C. E. (1948).** A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
+
+see publicly-avaialbe research-project paper for full reference-list.
 
 ---
 
