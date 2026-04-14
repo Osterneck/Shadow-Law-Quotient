@@ -150,7 +150,10 @@ GitHub. April 2026.
 
 **Shannon, C. E. (1948).** A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
 
-see publicly-avaialbe research-project paper for full reference-list.
+
+
+
+[see publicly-available research-project paper for full reference-list.]
 
 ---
 
